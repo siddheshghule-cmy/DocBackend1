@@ -8,7 +8,8 @@ joblib
 cloudinary
 python-dotenv
 paddleocr
-paddlepaddle==2.6.1
+paddlepaddle
 opencv-python-headless
+
 
 
