@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-pytesseract
 python-multipart
 scikit-learn
 pandas
@@ -10,6 +9,7 @@ python-dotenv
 paddleocr
 paddlepaddle
 opencv-python-headless
+
 
 
 
